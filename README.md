@@ -7,3 +7,7 @@ Going to adventures is the only way you can earn money and boost your level, but
 
 This project uses every OOP principle Encapsulation, Inheritance, Abstraction and Polymorphism. Also, it is divided in files to make it more reader friendly.
 
+I remind you that this project was not made for wrong inputs, so be careful when you check it.
+
+Please leave a comment with your opinion. :)
+
